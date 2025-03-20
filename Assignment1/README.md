@@ -1,1 +1,1 @@
-trying to add read me file
+Describe what the assignment is and what we do
